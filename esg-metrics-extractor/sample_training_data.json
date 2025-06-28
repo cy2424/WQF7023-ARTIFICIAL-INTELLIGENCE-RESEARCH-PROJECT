@@ -1,0 +1,12 @@
+[
+    {
+        "image_path": "chunyew/esg_report_page1.jpg",
+        "prompt": "Extract all ESG metrics mentioned on this page. Include all numeric values for emissions, energy, water, waste, and diversity metrics.",
+        "response": "The page contains the following ESG metrics:\n\nEmissions:\n- Scope 1 emissions: 25,000 tCO2e\n- Scope 2 emissions: 12,500 tCO2e\n- Total carbon footprint reduced by 15% compared to previous year\n\nEnergy:\n- Renewable energy usage: 35%\n- Total energy consumption: 120,000 MWh\n- Energy efficiency improved by 8%\n\nWater:\n- Water consumption: 500,000 m3\n- Recycled water: 15%\n\nDiversity:\n- Gender diversity: 42% women in workforce\n- 38% women in leadership positions"
+    },
+    {
+        "image_path": "chunyew/esg_report_page2.jpg",
+        "prompt": "Extract all ESG metrics mentioned on this page. Include all numeric values for emissions, energy, water, waste, and diversity metrics.",
+        "response": "The page contains the following ESG metrics:\n\nWaste:\n- Recycled waste: 60%\n- Landfill waste: 40%\n- Hazardous waste reduced by 22%\n\nWater:\n- Water withdrawal: 620,000 m3\n- Water discharge: 420,000 m3\n\nEmissions:\n- Scope 3 emissions: 150,000 tCO2e\n- GHG reduction target: 50% by 2030\n\nDiversity:\n- Ethnicity representation: 28% underrepresented minorities\n- Inclusion index score: 85/100"
+    }
+]

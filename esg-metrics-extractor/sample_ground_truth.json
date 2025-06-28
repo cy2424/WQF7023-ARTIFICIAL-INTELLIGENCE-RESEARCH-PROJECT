@@ -1,0 +1,22 @@
+{
+  "emissions": {
+    "scope 1": [25000, "25,000 tCO2e"],
+    "scope 2": [12500, "12,500 tCO2e"],
+    "scope 3": [150000, "150,000 tCO2e"]
+  },
+  "energy": {
+    "renewable": ["35%", "35", "35 percent"],
+    "consumption": ["120000", "120,000 MWh"]
+  },
+  "water": {
+    "consumption": ["500000", "500,000 m3"],
+    "recycled": ["15%", "15"]
+  },
+  "waste": {
+    "recycled": ["60%", "60"],
+    "landfill": ["40%", "40"]
+  },
+  "diversity": {
+    "gender": ["42%", "42", "42% women"]
+  }
+}
